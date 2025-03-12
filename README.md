@@ -3,6 +3,12 @@
 ## Overview
 PaperPal AI is an intelligent research assistant built using Streamlit, LangChain, and Ollama. It allows users to upload documents (PDF, TXT, DOCX), processes them into chunks, indexes them in a vector database, and answers user queries based on the document's content. The application also includes features like conversation history tracking, answer regeneration, and error handling
 
+# Main Interface
+![PaperPal](images/main_interface.png)
+
+# Answer Interface
+![PaperPal](images/answer_interface.png)
+
 ## Code Breakdown
 1. Imports and Setup
     Streamlit : Used for building the web interface.
